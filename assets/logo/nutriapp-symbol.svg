@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64" fill="none">
+  <title>NutriApp — simbolo</title>
+  <circle cx="32" cy="32" r="27" stroke="#1F6F78" stroke-width="4.5" opacity="0.9"/>
+  <path d="M33 48C19 44 14 29 21 16C35 20 45 32 39 47Z" fill="#1F6F78"/>
+  <path d="M23 19C29 28 32 37 33 47" stroke="#FFF8F2" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="43" cy="21" r="5" fill="#FF8A65"/>
+</svg>

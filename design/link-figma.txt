@@ -1,0 +1,18 @@
+NUTRIAPP — PROTÓTIPO CP4
+
+Figma:
+INSERIR_LINK_AQUI
+
+Checkpoint:
+CP4 — Idealização
+
+Integrantes:
+Felipe Braunstein e Silva — RM554483
+Felipe do Nascimento Fernandes — RM554598
+Henrique Ignacio Bartalo — RM555274
+Gustavo Henrique Martins — RM556956
+
+Observação:
+As telas conceituais também estão disponíveis em design/previews/,
+geradas a partir da própria aplicação React Native em execução
+(viewport de 390 x 844 px).
