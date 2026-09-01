@@ -2,7 +2,7 @@
 
 **Disciplina:** Mobile Development & IoT — FIAP  
 **Checkpoint:** CP4 — Idealização  
-**Grupo:** GELO E LIMÃO
+**Grupo:** TechSolutions
 
 | Integrante | RM | Função |
 |---|---|---|

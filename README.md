@@ -239,7 +239,7 @@ npm run lint
 
 ## 👥 Integrantes
 
-**Grupo:** GELO E LIMÃO
+**Grupo:** TechSolutions
 
 | Integrante | RM | Função |
 |---|---|---|
