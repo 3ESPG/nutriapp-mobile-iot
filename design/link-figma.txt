@@ -9,11 +9,11 @@ CP4 — Idealização
 Grupo:
 TechSolutions
 
-Integrantes e funções:
-Felipe Braunstein e Silva — RM554483 — Documentação e escopo
-Felipe do Nascimento Fernandes — RM554598 — Arquitetura e setup técnico
-Henrique Ignacio Bartalo — RM555274 — Identidade visual e marca
-Gustavo Henrique Martins — RM556956 — Pitch e modelo de negócio
+Integrantes e papéis:
+Felipe Braunstein e Silva — RM554483 — Documentação
+Felipe do Nascimento Fernandes — RM554598 — Front-end e arquitetura
+Henrique Ignacio Bartalo — RM555274 — Design e identidade visual
+Gustavo Henrique Martins — RM556956 — Produto e negócio
 
 Observação:
 As telas conceituais também estão disponíveis em design/previews/,

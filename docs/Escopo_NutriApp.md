@@ -4,14 +4,14 @@
 **Checkpoint:** CP4 — Idealização  
 **Grupo:** TechSolutions
 
-| Integrante | RM | Função |
-|---|---|---|
-| Felipe Braunstein e Silva | RM554483 | Documentação e escopo |
-| Felipe do Nascimento Fernandes | RM554598 | Arquitetura e setup técnico |
-| Henrique Ignacio Bartalo | RM555274 | Identidade visual e marca |
-| Gustavo Henrique Martins | RM556956 | Pitch e modelo de negócio |
+| Integrante | RM | Papel | Principais entregas no CP4 |
+|---|---|---|---|
+| Felipe Braunstein e Silva | RM554483 | **Documentação** | Documento de escopo, README, checklist da rubrica e organização do repositório |
+| Felipe do Nascimento Fernandes | RM554598 | **Front-end e arquitetura** | Setup do React Native/Expo, Expo Router, estrutura de pastas, telas e componentes |
+| Henrique Ignacio Bartalo | RM555274 | **Design e identidade visual** | Logo, paleta de cores, tipografia, design system, telas conceituais e Figma |
+| Gustavo Henrique Martins | RM556956 | **Produto e negócio** | Pitch de 30 s e 1 min, modelo freemium, precificação e diferencial competitivo |
 
-> A idealização do produto — problema, público-alvo, personas e proposta de valor — foi construída em conjunto pelo grupo. As funções acima indicam a **responsabilidade principal** de cada integrante na condução de cada frente.
+> A idealização do produto — problema, público-alvo, personas e proposta de valor — foi construída em conjunto pelo grupo. Os papéis acima indicam a **responsabilidade principal** de cada integrante na condução de cada frente, e não uma divisão exclusiva do trabalho.
 
 ---
 

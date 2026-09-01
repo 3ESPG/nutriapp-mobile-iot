@@ -4,12 +4,12 @@
 **Checkpoint:** CP4 — Idealização  
 **Grupo:** TechSolutions
 
-| Integrante | RM | Função |
+| Integrante | RM | Papel |
 |---|---|---|
-| Felipe Braunstein e Silva | RM554483 | Documentação e escopo |
-| Felipe do Nascimento Fernandes | RM554598 | Arquitetura e setup técnico |
-| Henrique Ignacio Bartalo | RM555274 | Identidade visual e marca |
-| Gustavo Henrique Martins | RM556956 | Pitch e modelo de negócio |
+| Felipe Braunstein e Silva | RM554483 | Documentação |
+| Felipe do Nascimento Fernandes | RM554598 | Front-end e arquitetura |
+| Henrique Ignacio Bartalo | RM555274 | Design e identidade visual |
+| Gustavo Henrique Martins | RM556956 | Produto e negócio |
 
 ---
 
