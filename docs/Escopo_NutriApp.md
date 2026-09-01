@@ -1,14 +1,17 @@
 # Documento de Escopo — NutriApp
 
-**Disciplina:** Mobile Development & IoT — FIAP
-**Checkpoint:** CP4 — Idealização
+**Disciplina:** Mobile Development & IoT — FIAP  
+**Checkpoint:** CP4 — Idealização  
+**Grupo:** GELO E LIMÃO
 
-| Integrante | RM |
-|---|---|
-| Felipe Braunstein e Silva | RM554483 |
-| Felipe do Nascimento Fernandes | RM554598 |
-| Henrique Ignacio Bartalo | RM555274 |
-| Gustavo Henrique Martins | RM556956 |
+| Integrante | RM | Função |
+|---|---|---|
+| Felipe Braunstein e Silva | RM554483 | Documentação e escopo |
+| Felipe do Nascimento Fernandes | RM554598 | Arquitetura e setup técnico |
+| Henrique Ignacio Bartalo | RM555274 | Identidade visual e marca |
+| Gustavo Henrique Martins | RM556956 | Pitch e modelo de negócio |
+
+> A idealização do produto — problema, público-alvo, personas e proposta de valor — foi construída em conjunto pelo grupo. As funções acima indicam a **responsabilidade principal** de cada integrante na condução de cada frente.
 
 ---
 

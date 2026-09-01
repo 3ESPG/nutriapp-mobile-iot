@@ -1,7 +1,15 @@
 # Pitch e Modelo de Negócio — NutriApp
 
-**Disciplina:** Mobile Development & IoT — FIAP
-**Checkpoint:** CP4 — Idealização
+**Disciplina:** Mobile Development & IoT — FIAP  
+**Checkpoint:** CP4 — Idealização  
+**Grupo:** GELO E LIMÃO
+
+| Integrante | RM | Função |
+|---|---|---|
+| Felipe Braunstein e Silva | RM554483 | Documentação e escopo |
+| Felipe do Nascimento Fernandes | RM554598 | Arquitetura e setup técnico |
+| Henrique Ignacio Bartalo | RM555274 | Identidade visual e marca |
+| Gustavo Henrique Martins | RM556956 | Pitch e modelo de negócio |
 
 ---
 
