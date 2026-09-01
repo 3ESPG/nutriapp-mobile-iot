@@ -1,7 +1,7 @@
 NUTRIAPP — PROTÓTIPO CP4
 
 Figma:
-INSERIR_LINK_AQUI
+https://www.figma.com/make/GOXcKuvqwGUppKVO95wxkT/Replicate-NutriApp-Project?fullscreen=1
 
 Checkpoint:
 CP4 — Idealização

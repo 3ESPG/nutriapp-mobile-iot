@@ -121,6 +121,8 @@ O usuário registra suas refeições, consulta o histórico, visualiza sua seman
 
 **Tipografia:** `Manrope` para títulos, botões e destaques • `Inter` para textos e descrições.
 
+**Protótipo no Figma:** [Replicate NutriApp Project](https://www.figma.com/make/GOXcKuvqwGUppKVO95wxkT/Replicate-NutriApp-Project?fullscreen=1)
+
 Detalhes completos em [`docs/Identidade_Visual_NutriApp.md`](docs/Identidade_Visual_NutriApp.md).
 
 ---

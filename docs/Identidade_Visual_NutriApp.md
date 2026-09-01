@@ -248,6 +248,8 @@ O botão de adicionar refeição fica disponível na Home e por um botão flutua
 
 ## 10. Link do Figma
 
-O link do protótipo e os materiais de design estão em [`design/link-figma.txt`](../design/link-figma.txt).
+Protótipo: [Replicate NutriApp Project](https://www.figma.com/make/GOXcKuvqwGUppKVO95wxkT/Replicate-NutriApp-Project?fullscreen=1)
+
+O link também está registrado em [`design/link-figma.txt`](../design/link-figma.txt), junto dos dados da equipe.
 
 As previews de todas as telas estão em [`design/previews/`](../design/previews).
